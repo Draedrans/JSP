@@ -11,6 +11,7 @@
     <title>Hello World</title>
   </head>
   <body>
-  <%= "Hola mundo" %>
+  <%= "Hola mundo, Ernesto es T_D_ un señor T_P_ como Estafarra" %>
+  <h1>Hola</h1>
   </body>
 </html>
